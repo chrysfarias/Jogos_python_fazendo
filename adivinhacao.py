@@ -2,6 +2,7 @@ import random
 
 
 def jogar():
+    #adicionando comentario teste
     print("Bem vindo ao jogo de adivinhação, por favor digite um número entre 1 e 50")
     print("Qual o nível de dificuldade?")
     print("(1) Fácil (2) Médio (3) Difícil")
